@@ -229,3 +229,7 @@ This project is licensed under the MIT License.
 ## Creator
 
 Created by **sanT**.
+
+## CI/CD Verification
+
+JobTrack deployment verified through Jenkins.
